@@ -1,0 +1,605 @@
+
+======================================================================
+PDF页码: 137
+命中城市: ['Miami', 'Denver']
+Murderand
+nonnegligen
+t Aggravate Propert Motor
+Violentmanslaughte d y Burglar Larceny-vehicle
+MetropolitanStatisticalArea Counties/principalcities Population crime r Rape Robbery assault crime y theft theft
+Rateper100,000inhabitants 318.1 4.4 53.5 25.0 235.2 2,051.0 486.6 1,308.3 256.1
+Dayton-Kettering-Beavercreek,OHM.S.A. 821,373
+IncludesGreene,Miami,MontgomeryCounties
+CityofDayton 134,857 1,806 40 157 341 1,268 5,845 1,159 2,892 1,794
+CityofKettering 56,562 24 0 10 7 7 849 88 677 84
+CityofBeavercreek 47,389 35 1 9 8 17 945 45 813 87
+Totalareaactuallyreporting 98.6% 3,108 55 427 507 2,118 16,233 2,315 10,620 3,297
+Estimatedtotal 100.0% 3,128 55 431 508 2,133 16,398 2,327 10,763 3,307
+Rateper100,000inhabitants 380.8 6.7 52.5 61.8 259.7 1,996.4 283.3 1,310.4 402.6
+Decatur,ALM.S.A. 160,084
+IncludesLawrence,MorganCounties
+CityofDecatur 58,445 355 5 32 26 292 1,350 113 1,072 165
+Totalareaactuallyreporting 100.0% 484 6 45 34 399 2,084 204 1,624 257
+Rateper100,000inhabitants 302.3 3.7 28.1 21.2 249.2 1,301.8 127.4 1,014.5 160.5
+Decatur,ILM.S.A. 101,466
+IncludesMaconCounty
+CityofDecatur 67,934 409 5 31 64 309 1,948 630 1,041 277
+Totalareaactuallyreporting 97.4% 457 6 43 67 341 2,327 777 1,255 295
+Estimatedtotal 100.0% 459 6 43 67 343 2,363 782 1,281 300
+Rateper100,000inhabitants 452.4 5.9 42.4 66.0 338.0 2,328.9 770.7 1,262.5 295.7
+Denver-Aurora-Centennial,COM.S.A. 3,041,699
+IncludesAdams,Arapahoe,Broomfield,ClearCreek,Denver,Douglas,Elbert,
+Gilpin,Jefferson,ParkCounties
+CityofDenver 722,031 7,170 71 676 1,272 5,151 34,380 5,112 20,373 8,895
+CityofAurora 397,852 3,771 41 292 542 2,896 12,349 1,476 7,305 3,567
+CityofCentennial 106,454 184 0 9 22 153 1,819 300 1,220 299
+CityofBroomfield 78,294 116 1 25 16 74 1,453 160 1,105 188
+CityofCommerceCity 70,170 555 6 72 79 398 2,015 222 1,204 589
+Totalareaactuallyreporting 99.9% 17,221 167 1,834 2,692 12,528 94,133 12,361 61,247 20,524
+Estimatedtotal 100.0% 17,222 167 1,834 2,692 12,529 94,149 12,363 61,260 20,525
+Rateper100,000inhabitants 566.2 5.5 60.3 88.5 411.9 3,095.3 406.5 2,014.0 674.8
+DesMoines-WestDesMoines,IAM.S.A. 752,810
+IncludesDallas,Guthrie,Jasper,Madison,Polk,WarrenCounties
+CityofDesMoines 209,245 1,471 9 107 157 1,198 6,542 968 4,482 1,092
+CityofWestDesMoines 73,335 121 0 16 9 95 1,257 83 1,080 94
+Totalareaactuallyreporting 100.0% 2,297 17 234 204 1,841 11,799 1,463 8,730 1,606
+Rateper100,000inhabitants 305.1 2.3 31.1 27.1 244.6 1,567.3 194.3 1,159.7 213.3
+Detroit-Warren-Dearborn,MIM.S.A. 4,377,249
+IncludestheMetroDivisionsofDetroit-Dearborn-Livonia,MI;Warren-Troy-
+FarmingtonHills,MI
+CityofDetroit 651,171 11,599 203 605 1,195 9,596 28,035 4,578 15,263 8,194
+CityofWarren 135,843 736 7 104 48 577 2,111 278 1,355 478
+CityofDearborn 104,571 306 1 27 38 240 2,091 118 1,488 485
+CityofLivonia 91,189 208 0 20 14 174 1,151 75 922 154
+CityofTroy 87,422 101 0 22 16 63 1,116 72 948 96
+CityofFarmingtonHills 82,116 163 1 16 10 136 559 71 396 92
+
+======================================================================
+PDF页码: 145
+命中城市: ['Houston', 'Austin']
+Murderand
+nonnegligen
+t Aggravate Propert Motor
+Violentmanslaughte d y Burglar Larceny-vehicle
+MetropolitanStatisticalArea Counties/principalcities Population crime r Rape Robbery assault crime y theft theft
+IncludesAustin,Brazoria,Chambers,FortBend,Galveston,Harris,Liberty,
+Montgomery,SanJacinto,WallerCounties
+CityofHouston 2,319,160 26,628 320 1,693 6,355 18,260 99,572 14,953 68,315 16,304
+CityofPasadena 145,199 822 6 101 107 608 3,415 366 2,436 613
+CityofConroe 114,592 279 1 74 41 163 1,872 161 1,561 150
+CityofSugarLand 107,757 84 1 9 25 49 1,491 128 1,260 103
+CityofBaytown 83,639 368 6 64 54 244 2,343 326 1,641 376
+CityofTexasCity 58,130 197 5 55 21 116 1,288 198 989 101
+CityofGalveston 53,100 285 3 80 57 145 1,264 139 984 141
+Totalareaactuallyreporting 99.9% 43,492 542 4,397 9,005 29,547 196,346 27,651 138,251 30,441
+Estimatedtotal 100.0% 43,499 542 4,398 9,005 29,553 196,399 27,660 138,288 30,448
+Rateper100,000inhabitants 563.9 7.0 57.0 116.7 383.1 2,546.1 358.6 1,792.8 394.7
+Huntington-Ashland,WV-KY-OHM.S.A. 368,528
+IncludesBoyd,Cabell,Carter,Greenup,Lawrence(KY),Lawrence(OH),
+Putnam,WayneCounties
+CityofHuntington,WV 44,860 359 6 46 47 260 1,616 272 1,194 150
+CityofAshland,KY 21,011 42 0 15 4 23 526 60 421 45
+Totalareaactuallyreporting 88.0% 730 9 163 64 493 4,120 640 3,118 362
+Estimatedtotal 100.0% 795 10 172 68 544 4,460 686 3,374 400
+Rateper100,000inhabitants 215.7 2.7 46.7 18.5 147.6 1,210.2 186.1 915.5 108.5
+Huntsville,ALM.S.A. 540,934
+IncludesLimestone,MadisonCounties
+CityofHuntsville 228,697 1,105 19 111 123 852 5,462 735 4,137 590
+Totalareaactuallyreporting 87.7% 1,628 31 165 149 1,283 8,465 1,229 6,349 886
+Estimatedtotal 100.0% 1,752 33 178 153 1,388 8,816 1,298 6,586 931
+Rateper100,000inhabitants 323.9 6.1 32.9 28.3 256.6 1,629.8 240.0 1,217.5 172.1
+IdahoFalls,IDM.S.A. 171,484
+IncludesBonneville,Butte,JeffersonCounties
+CityofIdahoFalls 68,716 245 3 49 7 186 831 212 532 87
+Totalareaactuallyreporting 100.0% 412 3 79 9 321 1,413 385 909 119
+Rateper100,000inhabitants 240.3 1.7 46.1 5.2 187.2 824.0 224.5 530.1 69.4
+Indianapolis-Carmel-Greenwood,INM.S.A. 2,165,957
+IncludesBoone,Brown,Hamilton,Hancock,Hendricks,Johnson,Madison,
+Marion,Morgan,Shelby,TiptonCounties
+CityofIndianapolis 890,685 7,819 178 527 1,275 5,839 29,714 4,613 18,456 6,645
+CityofCarmel 103,107 68 0 13 6 49 838 47 702 89
+CityofGreenwood 67,086 73 1 4 13 55 1,026 44 886 96
+CityofAnderson 55,355 232 3 38 30 161 1,249 150 918 181
+Totalareaactuallyreporting 95.0% 9,315 201 739 1,454 6,921 39,964 5,415 26,478 8,071
+Estimatedtotal 100.0% 9,464 202 761 1,460 7,041 40,621 5,498 26,967 8,156
+Rateper100,000inhabitants 436.9 9.3 35.1 67.4 325.1 1,875.4 253.8 1,245.0 376.6
+IowaCity,IAM.S.A. 183,234
+IncludesJohnson,WashingtonCounties
+CityofIowaCity 75,934 244 0 41 38 165 1,271 119 1,055 97
+Totalareaactuallyreporting 100.0% 443 0 84 41 318 2,344 241 1,949 154
+Rateper100,000inhabitants 241.8 0.0 45.8 22.4 173.5 1,279.2 131.5 1,063.7 84.0
+
+======================================================================
+PDF页码: 431
+命中城市: ['Houston', 'Austin']
+Murderand Motor
+Student Violent nonnegligent Aggravated Property Larceny-vehicle
+State University/College Campus enrollment1 crime manslaughter Rape Robbery assault crime Burglary theft theft Arson
+TEXAS TexasA&MUniversity CollegeStation 78,501 10 0 8 0 2 565 32 371 162 0
+TEXAS TexasA&MUniversity CorpusChristi 13,671 0 0 0 0 0 61 4 54 3 0
+TEXAS TexasA&MUniversity Galveston2 0 0 0 0 0 3 0 3 0 0
+TEXAS TexasA&MUniversity SanAntonio 8,479 0 0 0 0 0 27 3 22 2 0
+TEXAS TexasA&MUniversity Texarkana 2,546 1 0 0 1 0 6 0 6 0 0
+TEXAS TexasChristianUniversity 12,870 1 0 1 0 0 60 11 48 1 0
+TEXAS TexasStateTechnicalCollege Harlingen2 0 0 0 0 0 2 0 2 0 0
+TEXAS TexasStateTechnicalCollege Sweetwater2 0 0 0 0 0 1 0 1 0 0
+TEXAS TexasStateTechnicalCollege Waco 13,181 6 0 6 0 0 34 6 25 3 0
+TEXAS TexasStateUniversity SanMarcos 41,676 12 0 8 2 2 110 19 79 12 0
+TEXAS TexasTechUniversity Lubbock 50,693 5 0 1 0 4 190 5 144 41 0
+TEXAS TexasWoman'sUniversity 19,829 0 0 0 0 0 15 0 15 0 0
+TEXAS TrinityUniversity 2,762 0 0 0 0 0 28 4 23 1 0
+TEXAS TrinityValleyCommunityCollege 7,518 0 0 0 0 0 5 3 2 0 0
+TEXAS TylerJuniorCollege 15,756 0 0 0 0 0 24 1 21 2 0
+TEXAS UniversityofDallas 2,674 0 0 0 0 0 20 1 18 1 0
+TEXAS UniversityofHouston CentralCampus 52,007 18 0 10 4 4 522 62 332 128 0
+TEXAS UniversityofHouston Clearlake 10,463 0 0 0 0 0 9 0 7 2 0
+TEXAS UniversityofHouston DowntownCampus 17,295 1 0 1 0 0 22 0 21 1 0
+TEXAS UniversityofMaryHardin-Baylor 3,854 0 0 0 0 0 16 1 5 10 0
+TEXAS UniversityofNorthTexas Denton 52,260 7 0 7 0 0 186 18 159 9 4
+TEXAS UniversityofNorthTexas HealthScienceCenter 2,648 0 0 0 0 0 6 0 5 1 0
+TEXAS UniversityofSt.Thomas 4,228 0 0 0 0 0 34 1 32 1 0
+TEXAS UniversityofTexas Arlington 54,487 6 0 5 0 1 140 18 109 13 0
+TEXAS UniversityofTexas Austin 55,710 18 0 1 9 8 779 33 726 20 2
+TEXAS UniversityofTexas Dallas 34,317 1 0 0 1 0 114 1 100 13 0
+TEXAS UniversityofTexas ElPaso 28,323 2 0 0 1 1 59 4 48 7 0
+TEXAS UniversityofTexas HealthScienceCenter,SanAntonio 4,225 0 0 0 0 0 38 2 31 5 0
+TEXAS UniversityofTexas Houston 6,724 14 0 6 1 7 312 34 253 25 0
+TEXAS UniversityofTexas MedicalBranch 4,169 1 0 0 0 1 94 0 91 3 0
+TEXAS UniversityofTexas PermianBasin 7,456 2 0 1 0 1 18 5 10 3 0
+TEXAS UniversityofTexas RioGrandeValley 47,231 3 0 1 0 2 54 1 51 2 0
+TEXAS UniversityofTexas SanAntonio 38,728 8 0 7 0 1 133 4 111 18 0
+TEXAS UniversityofTexas SouthwesternMedicalSchool 2,671 2 0 2 0 0 188 1 168 19 1
+TEXAS UniversityofTexas StephenF.Austin 12,740 6 0 5 0 1 17 5 12 0 0
+TEXAS UniversityofTexas Tyler 11,335 2 0 2 0 0 20 3 16 1 0
+TEXAS WestTexasA&MUniversity 10,667 1 0 1 0 0 22 3 18 1 0
+UTAH BrighamYoungUniversity 41,238 3 0 1 0 2 82 6 76 0 0
+UTAH DixieStateUniversity 14,658 0 0 0 0 0 12 1 11 0 0
+UTAH SouthernUtahUniversity 21,159 2 0 1 0 1 14 2 12 0 0
+UTAH UniversityofUtah 40,455 16 0 6 1 9 229 14 209 6 0
+UTAH UtahStateUniversity Logan 33,389 4 0 4 0 0 41 4 37 0 0
+
+======================================================================
+PDF页码: 543
+命中城市: ['Houston', 'Austin']
+Murderand Motor
+Violent nonnegligent Aggravated Property Larceny- vehicle
+State State/Tribal/OtherAgency Unit/Office crime manslaughter Rape Robbery assault crime Burglary theft theft Arson1
+TEXAS OtherAgency GraysonCountyConstable Precinct4 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency GreggCountyConstable Precinct1 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency GreggCountyConstable Precinct2 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency GreggCountyConstable Precinct3 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HardinCountyConstable Precinct2 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HardinCountyConstable Precinct4 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HarrisCountyConstable Precinct1 128 0 20 25 83 744 51 590 103 1
+TEXAS OtherAgency HarrisCountyConstable Precinct2 81 0 15 19 47 800 60 652 88 0
+TEXAS OtherAgency HarrisCountyConstable Precinct3 107 1 21 16 69 1,021 128 656 237 12
+TEXAS OtherAgency HarrisCountyConstable Precinct4 1,179 0 39 185 955 9,333 850 6,791 1,692 40
+TEXAS OtherAgency HarrisCountyConstable Precinct5 297 3 37 44 213 2,465 227 2,011 227 14
+TEXAS OtherAgency HarrisCountyConstable Precinct6 134 0 7 49 78 1,410 103 1,221 86 5
+TEXAS OtherAgency HarrisCountyConstable Precinct7 36 1 11 5 19 169 12 133 24 5
+TEXAS OtherAgency HarrisCountyConstable Precinct8 24 0 0 3 21 240 21 201 18 0
+TEXAS OtherAgency HendersonCountyConstable Precinct1 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HendersonCountyConstable Precinct5 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HidalgoCountyConstable Precinct4 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HidalgoCountyConstable Precinct5 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HillCountyConstable Precinct4 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HoodCountyConstable Precinct1 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HoodCountyConstable Precinct4 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HopkinsCountyConstable Precinct2 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HospitalDistrict DallasCounty 17 0 7 1 9 194 2 162 30 0
+TEXAS OtherAgency HospitalDistrict EctorCounty 1 0 0 0 1 11 0 10 1 0
+TEXAS OtherAgency HospitalDistrict MidlandCounty 3 0 1 0 2 3 1 2 0 0
+TEXAS OtherAgency HospitalDistrict TarrantCounty 10 0 3 1 6 58 2 53 3 0
+TEXAS OtherAgency HoustonArsonBureau 0 0 0 0 0 0 0 0 0 411
+TEXAS OtherAgency HoustonCountyConstable Precinct1 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HoustonMetropolitanTransitAuthority 20 0 0 9 11 74 8 49 17 0
+TEXAS OtherAgency HuntCountyConstable Precinct1 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HuntCountyConstable Precinct2 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HuntCountyConstable Precinct3 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency HuntCountyConstable Precinct4 0 0 0 0 0 0 0 0 0 0
+TEXAS OtherAgency IndependentSchoolDistrict Aldine 29 0 2 6 21 96 11 78 7 4
+TEXAS OtherAgency IndependentSchoolDistrict Alief 11 0 0 4 7 45 1 38 6 0
+TEXAS OtherAgency IndependentSchoolDistrict Alvin 2 0 0 1 1 26 5 21 0 0
+TEXAS OtherAgency IndependentSchoolDistrict Amarillo 0 0 0 0 0 2 1 1 0 0
+TEXAS OtherAgency IndependentSchoolDistrict Angleton 1 0 1 0 0 7 0 7 0 0
+TEXAS OtherAgency IndependentSchoolDistrict Anna 1 0 1 0 0 8 0 8 0 0
+TEXAS OtherAgency IndependentSchoolDistrict Aubrey 0 0 0 0 0 2 0 2 0 0
+TEXAS OtherAgency IndependentSchoolDistrict Austin 21 0 2 7 12 122 31 82 9 2
+TEXAS OtherAgency IndependentSchoolDistrict Avery 0 0 0 0 0 0 0 0 0 0
+
+======================================================================
+PDF页码: 711
+命中城市: ['Chicago', 'Austin']
+Totallaw
+enforcement Total Total
+State City Population employees officers civilians
+ILLINOIS UniversityPark 6,960 15 13 2
+ILLINOIS Urbana 38,204 70 59 11
+ILLINOIS Vandalia 7,327 12 12 0
+ILLINOIS VernonHills 26,629 74 43 31
+ILLINOIS Vienna 1,342 3 3 0
+ILLINOIS VillaPark 21,570 51 40 11
+ILLINOIS Virginia 1,440 2 2 0
+ILLINOIS Warrenville 15,530 39 32 7
+ILLINOIS Washington 15,760 30 25 5
+ILLINOIS Watseka 4,458 13 12 1
+ILLINOIS Wauconda 13,833 28 25 3
+ILLINOIS Waukegan 87,155 172 156 16
+ILLINOIS Wayne 2,235 6 5 1
+ILLINOIS Westchester 15,856 34 29 5
+ILLINOIS WestChicago 24,968 55 47 8
+ILLINOIS WestCity 637 11 7 4
+ILLINOIS WestDundee 7,882 25 23 2
+ILLINOIS WesternSprings 13,191 23 20 3
+ILLINOIS Westmont 23,785 43 37 6
+ILLINOIS Westville 3,019 6 6 0
+ILLINOIS Wheaton 52,649 85 69 16
+ILLINOIS Wheeling 37,251 88 63 25
+ILLINOIS Willowbrook 8,981 29 26 3
+ILLINOIS WillowSprings 5,639 12 12 0
+ILLINOIS Wilmette 26,685 57 43 14
+ILLINOIS Wilmington 5,542 22 20 2
+ILLINOIS Winfield 10,137 18 16 2
+ILLINOIS Winnebago 2,860 7 7 0
+ILLINOIS Winnetka 12,159 29 25 4
+ILLINOIS WoodDale 13,689 42 32 10
+ILLINOIS Woodridge 33,387 56 46 10
+ILLINOIS WoodRiver 10,216 30 19 11
+ILLINOIS Woodstock 25,731 46 41 5
+ILLINOIS Worden 1,062 2 2 0
+ILLINOIS Worth 10,352 30 28 2
+ILLINOIS Zion 24,068 56 53 3
+INDIANA Albion 2,224 4 4 0
+INDIANA Alexandria 5,169 16 16 0
+INDIANA Anderson 55,355 124 102 22
+INDIANA Angola 9,488 24 20 4
+INDIANA Argos 1,735 4 4 0
+INDIANA Auburn 14,010 30 27 3
+INDIANA Austin 4,195 9 9 0
+INDIANA Bargersville 11,568 17 16 1
+INDIANA Batesville 7,403 19 14 5
+INDIANA Bedford 13,872 39 31 8
+INDIANA Berne 4,242 9 7 2
+INDIANA Bloomington 78,762 153 91 62
+INDIANA Bluffton 10,519 22 20 2
+INDIANA Boonville 6,681 20 19 1
+INDIANA Borden 812 2 2 0
+
+======================================================================
+PDF页码: 750
+命中城市: ['Houston', 'Philadelphia']
+Totallaw
+enforcement Total Total
+State City Population employees officers civilians
+MISSISSIPPI Gautier 19,023 44 33 11
+MISSISSIPPI Grenada 12,139 33 27 6
+MISSISSIPPI Gulfport 72,810 202 138 64
+MISSISSIPPI Guntown 2,433 6 5 1
+MISSISSIPPI Hattiesburg 48,307 152 107 45
+MISSISSIPPI Heidelberg 609 3 3 0
+MISSISSIPPI Hernando 18,579 63 47 16
+MISSISSIPPI HollySprings 6,662 16 12 4
+MISSISSIPPI HornLake 26,378 64 49 15
+MISSISSIPPI Houston 3,687 8 7 1
+MISSISSIPPI Inverness 787 8 4 4
+MISSISSIPPI IttaBena 1,511 6 6 0
+MISSISSIPPI Iuka 3,056 12 9 3
+MISSISSIPPI Jackson 140,741 408 268 140
+MISSISSIPPI Kosciusko 6,765 18 18 0
+MISSISSIPPI Laurel 16,922 64 44 20
+MISSISSIPPI Leland 3,608 19 10 9
+MISSISSIPPI LongBeach 17,053 41 28 13
+MISSISSIPPI Louisville 5,864 22 20 2
+MISSISSIPPI Lucedale 3,119 20 14 6
+MISSISSIPPI Lumberton 1,648 6 5 1
+MISSISSIPPI Macon 2,422 7 6 1
+MISSISSIPPI Madison 28,064 94 76 18
+MISSISSIPPI Magee 3,913 19 13 6
+MISSISSIPPI Mathiston 862 3 3 0
+MISSISSIPPI McComb 11,771 46 21 25
+MISSISSIPPI Mendenhall 2,127 5 3 2
+MISSISSIPPI Meridian 33,124 77 56 21
+MISSISSIPPI MossPoint 11,813 30 22 8
+MISSISSIPPI MountOlive 871 1 1 0
+MISSISSIPPI NewAlbany 7,733 28 26 2
+MISSISSIPPI Newton 3,082 8 7 1
+MISSISSIPPI Oakland 453 3 1 2
+MISSISSIPPI OceanSprings 19,191 48 38 10
+MISSISSIPPI Okolona 2,423 7 7 0
+MISSISSIPPI OliveBranch 47,178 91 87 4
+MISSISSIPPI Oxford 27,529 118 94 24
+MISSISSIPPI Pascagoula 21,455 73 50 23
+MISSISSIPPI PassChristian 6,435 28 21 7
+MISSISSIPPI Pearl 28,453 71 56 15
+MISSISSIPPI Petal 11,505 28 24 4
+MISSISSIPPI Philadelphia 6,867 30 26 4
+MISSISSIPPI Picayune 11,860 36 30 6
+MISSISSIPPI Pontotoc 5,966 27 25 2
+MISSISSIPPI Poplarville 2,816 11 10 1
+MISSISSIPPI Purvis 1,958 14 11 3
+MISSISSIPPI Quitman 1,947 5 5 0
+MISSISSIPPI Raymond 1,864 4 4 0
+MISSISSIPPI Richland 7,486 31 24 7
+MISSISSIPPI Ridgeland 24,407 83 55 28
+MISSISSIPPI Ruleville 2,436 3 3 0
+
+======================================================================
+PDF页码: 786
+命中城市: ['Boston', 'Austin']
+Totallaw
+enforcement Total Total
+State City Population employees officers civilians
+NORTHDAKOTA Rolla 1,148 3 3 0
+NORTHDAKOTA Rugby 2,428 4 4 0
+NORTHDAKOTA Stanley 2,133 7 6 1
+NORTHDAKOTA Steele 648 1 1 0
+NORTHDAKOTA Surrey 1,438 3 3 0
+NORTHDAKOTA Thompson 1,060 1 1 0
+NORTHDAKOTA Tioga 2,060 6 5 1
+NORTHDAKOTA ValleyCity 6,541 14 12 2
+NORTHDAKOTA Wahpeton 7,995 20 18 2
+NORTHDAKOTA WatfordCity 5,949 32 26 6
+NORTHDAKOTA WestFargo 40,915 92 79 13
+NORTHDAKOTA Williston 27,211 82 65 17
+NORTHDAKOTA Wishek 837 2 2 0
+OHIO Ada 5,293 11 9 2
+OHIO Akron 188,223 491 451 40
+OHIO Alexandria 493 1 1 0
+OHIO AmericanTownship 12,432 3 3 0
+OHIO Amherst 12,996 34 25 9
+OHIO Andover 941 3 3 0
+OHIO Arcanum 2,320 6 6 0
+OHIO Archbold 4,426 13 12 1
+OHIO Ashland 18,552 38 30 8
+OHIO Ashtabula 17,723 39 32 7
+OHIO Athens 25,104 33 25 8
+OHIO Aurora 17,869 39 30 9
+OHIO Austintown 35,491 66 39 27
+OHIO Avon 25,562 56 49 7
+OHIO AvonLake 26,167 36 30 6
+OHIO BainbridgeTownship 12,921 28 24 4
+OHIO Baltimore 2,993 5 5 0
+OHIO Barnesville 3,878 10 8 2
+OHIO BathTownship,SummitCounty 9,940 27 22 5
+OHIO BayView 589 6 6 0
+OHIO BazettaTownship 5,871 8 8 0
+OHIO Beavercreek 47,389 68 51 17
+OHIO BeaverTownship 6,659 13 13 0
+OHIO Bedford 12,761 37 32 5
+OHIO BedfordHeights 10,723 47 32 15
+OHIO Bellaire 3,731 7 7 0
+OHIO Bellefontaine 14,061 35 28 7
+OHIO Bellville 1,993 8 7 1
+OHIO Belpre 6,580 15 10 5
+OHIO BentleyvilleVillage 887 6 6 0
+OHIO Berea 17,886 36 33 3
+OHIO BerlinHeights 660 1 1 0
+OHIO Bexley 12,436 40 33 7
+OHIO Blanchester 4,219 8 7 1
+OHIO Bluffton 3,884 11 11 0
+OHIO Boardman 39,587 79 59 20
+OHIO BostonHeights 1,393 9 9 0
+OHIO BowlingGreen 30,287 55 43 12
+
+======================================================================
+PDF页码: 790
+命中城市: ['Boston', 'Miami']
+Totallaw
+enforcement Total Total
+State City Population employees officers civilians
+OHIO Louisville 9,761 14 14 0
+OHIO Loveland 13,108 24 21 3
+OHIO Luckey 1,014 2 2 0
+OHIO Lyndhurst 13,634 36 28 8
+OHIO Madeira 9,400 16 15 1
+OHIO MadisonTownship,FranklinCounty 19,179 18 18 0
+OHIO MadisonTownship,LakeCounty 14,979 22 16 6
+OHIO Magnolia 1,014 1 1 0
+OHIO Mansfield 47,770 116 79 37
+OHIO MapleHeights 22,966 42 32 10
+OHIO Marblehead 835 2 2 0
+OHIO Mariemont 3,417 12 11 1
+OHIO Marion 35,373 64 59 5
+OHIO MarlboroTownship 4,247 7 6 1
+OHIO MartinsFerry 6,024 14 11 3
+OHIO Marysville 29,393 60 49 11
+OHIO Massillon 32,569 53 49 4
+OHIO Maumee 13,558 42 39 3
+OHIO MayfieldVillage 3,311 27 17 10
+OHIO McArthur 1,714 3 3 0
+OHIO McConnelsville 1,633 4 4 0
+OHIO Mechanicsburg 1,681 5 5 0
+OHIO MedinaTownship 9,380 13 13 0
+OHIO Mentor 46,765 107 77 30
+OHIO Mentor-on-the-Lake 7,070 16 11 5
+OHIO Miamisburg 19,781 39 36 3
+OHIO MiddleburgHeights 15,602 33 31 2
+OHIO Middleport 2,140 6 3 3
+OHIO Midvale 649 2 2 0
+OHIO Milan 1,343 3 3 0
+OHIO Milford 6,404 22 20 2
+OHIO Millersburg 3,198 12 10 2
+OHIO MiltonTownship 2,456 7 6 1
+OHIO Minerva 3,705 16 10 6
+OHIO MinervaPark 1,922 11 10 1
+OHIO Minster 2,979 8 7 1
+OHIO Mogadore 3,796 10 9 1
+OHIO Monroe 18,069 45 36 9
+OHIO Monroeville 1,274 5 5 0
+OHIO Montgomery 10,784 23 20 3
+OHIO Montpelier 3,869 9 8 1
+OHIO MontvilleTownship 13,415 17 16 1
+OHIO Moraine 6,636 37 28 9
+OHIO MorelandHills 3,460 15 14 1
+OHIO MountGilead 3,543 7 7 0
+OHIO MountVernon 16,421 47 38 9
+OHIO MunroeFalls 4,941 9 8 1
+OHIO Navarre 1,795 6 6 0
+OHIO Nelsonville 4,492 13 12 1
+OHIO NewAlbany 11,423 50 30 20
+OHIO NewBoston 2,207 15 10 5
+
+======================================================================
+PDF页码: 864
+命中城市: ['Los Angeles', 'Denver']
+Total law
+Student enforcement Total Total
+State University/College Campus enrollment1 employees officers civilians
+CALIFORNIA SanJoaquinDeltaCollege 23,408 33 12 21
+CALIFORNIA SanJose/EvergreenCommunityCollege 25,136 21 8 13
+CALIFORNIA SantaMonicaCollege 32,856 38 14 24
+CALIFORNIA SonomaCountyJuniorCollege 23,299 25 11 14
+CALIFORNIA SonomaStateUniversity 7,372 11 9 2
+CALIFORNIA StateCenterCommunityCollegeDistrict 62,190 29 24 5
+CALIFORNIA UniversityofCalifornia Berkeley 48,230 104 49 55
+CALIFORNIA UniversityofCalifornia Davis 42,046 89 46 43
+CALIFORNIA UniversityofCalifornia Irvine 38,000 143 48 95
+CALIFORNIA UniversityofCalifornia Los Angeles 49,010 129 59 70
+CALIFORNIA UniversityofCalifornia Merced 9,511 38 17 21
+CALIFORNIA UniversityofCalifornia Riverside 28,886 47 29 18
+CALIFORNIA UniversityofCalifornia SanDiego 44,050 104 50 54
+CALIFORNIA UniversityofCalifornia SanFrancisco 3,251 215 66 149
+CALIFORNIA UniversityofCalifornia SantaBarbara 28,257 47 33 14
+CALIFORNIA UniversityofCalifornia SantaCruz 21,109 31 19 12
+CALIFORNIA VenturaCountyCommunityCollegeDistrict 46,032 12 10 2
+CALIFORNIA West Valley-MissionCommunityCollege 20,588 16 10 6
+COLORADO Adams StateUniversity 3,715 6 5 1
+COLORADO ArapahoeCommunityCollege 18,458 10 8 2
+COLORADO AurariaHigherEducationCenter2 45 31 14
+COLORADO ColoradoSchool ofMines 7,872 14 13 1
+COLORADO ColoradoStateUniversity Fort Collins 36,856 45 26 19
+COLORADO Fort Lewis College 3,835 11 9 2
+COLORADO Pikes PeakCommunityCollege 15,754 14 13 1
+COLORADO RedRocks CommunityCollege 10,989 12 7 5
+COLORADO UniversityofColorado Boulder 44,787 64 41 23
+COLORADO UniversityofColorado ColoradoSprings 14,894 29 15 14
+COLORADO UniversityofColorado Denver 29,702 60 25 35
+COLORADO UniversityofNorthernColorado 10,992 23 16 7
+CONNECTICUT Central Connecticut StateUniversity 11,122 22 14 8
+
+======================================================================
+PDF页码: 883
+命中城市: ['Houston', 'Austin']
+Total law
+Student enforcement Total Total
+State University/College Campus enrollment1 employees officers civilians
+TEXAS TarletonStateUniversity 17,448 24 20 4
+TEXAS Tarrant CountyCollegeDistrict 63,140 103 65 38
+TEXAS TexarkanaCollege 4,737 7 5 2
+TEXAS Texas A&M International University 9,968 26 20 6
+TEXAS Texas A&M University Central Texas 3,014 11 8 3
+TEXAS Texas A&M University CollegeStation 78,501 141 63 78
+TEXAS Texas A&M University Corpus Christi 13,671 25 13 12
+TEXAS Texas A&M University Galveston2 11 10 1
+TEXAS Texas A&M University SanAntonio 8,479 24 15 9
+TEXAS Texas A&M University Texarkana 2,546 10 8 2
+TEXAS Texas ChristianUniversity 12,870 59 31 28
+TEXAS Texas StateTechnical College Harlingen2 10 8 2
+TEXAS Texas StateTechnical College Sweetwater2 6 5 1
+TEXAS Texas StateTechnical College Waco 13,181 6 4 2
+TEXAS Texas StateUniversity SanMarcos 41,676 61 27 34
+TEXAS Texas TechUniversity Lubbock 50,693 123 56 67
+TEXAS Texas Woman's University 19,829 37 18 19
+TEXAS TrinityUniversity 2,762 21 16 5
+TEXAS TrinityValleyCommunityCollege 7,518 10 6 4
+TEXAS TylerJuniorCollege 15,756 23 13 10
+TEXAS UniversityofDallas 2,674 9 6 3
+TEXAS UniversityofHouston Central Campus 52,007 166 55 111
+TEXAS UniversityofHouston Clearlake 10,463 26 16 10
+TEXAS UniversityofHouston DowntownCampus 17,295 51 20 31
+TEXAS UniversityofMaryHardin-Baylor 3,854 11 9 2
+TEXAS UniversityofNorthTexas Denton 52,260 68 44 24
+TEXAS UniversityofNorthTexas HealthScienceCenter 2,648 18 15 3
+TEXAS UniversityofSt.Thomas 4,228 11 10 1
+TEXAS UniversityofTexas Arlington 54,487 83 38 45
+TEXAS UniversityofTexas Austin 55,710 153 88 65
+TEXAS UniversityofTexas Dallas 34,317 72 26 46
+TEXAS UniversityofTexas El Paso 28,323 38 20 18
+
+======================================================================
+PDF页码: 884
+命中城市: ['Houston', 'Austin']
+Total law
+Student enforcement Total Total
+State University/College Campus enrollment1 employees officers civilians
+TEXAS UniversityofTexas HealthScienceCenter,SanAntonio 4,225 91 41 50
+TEXAS UniversityofTexas Houston 6,724 383 77 306
+TEXAS UniversityofTexas Medical Branch 4,169 136 78 58
+TEXAS UniversityofTexas PermianBasin 7,456 25 14 11
+TEXAS UniversityofTexas RioGrandeValley 47,231 89 52 37
+TEXAS UniversityofTexas SanAntonio 38,728 93 42 51
+TEXAS UniversityofTexas SouthwesternMedical School 2,671 145 43 102
+TEXAS UniversityofTexas StephenF.Austin 12,740 36 21 15
+TEXAS UniversityofTexas Tyler 11,335 43 20 23
+TEXAS West Texas A&M University 10,667 19 15 4
+UTAH Brigham YoungUniversity 41,238 35 32 3
+UTAH DixieStateUniversity 14,658 10 9 1
+UTAH SnowCollege 7,259 2 2 0
+UTAH SouthernUtahUniversity 21,159 10 9 1
+UTAH UniversityofUtah 40,455 68 50 18
+UTAH UtahStateUniversity Eastern2 2 2 0
+UTAH UtahStateUniversity Logan 33,389 28 21 7
+UTAH UtahValleyUniversity 54,501 36 23 13
+UTAH WeberStateUniversity 37,309 12 10 2
+VERMONT UniversityofVermont 16,101 32 18 14
+VIRGINIA ChristopherNewport University 4,703 43 25 18
+VIRGINIA CollegeofWilliam andMary 10,856 31 24 7
+VIRGINIA Emory&HenryCollege 1,459 6 3 3
+VIRGINIA GeorgeMason University 47,916 59 43 16
+VIRGINIA GermannaCommunityCollege 10,655 13 2 11
+VIRGINIA HamptonUniversity 3,842 36 7 29
+VIRGINIA James Madison University 24,300 50 33 17
+VIRGINIA J.Sargeant Reynolds CommunityCollege 10,717 12 8 4
+VIRGINIA Laurel RidgeCommunityCollege 7,549 4 4 0
+VIRGINIA LongwoodUniversity 5,948 14 12 2
+VIRGINIA NorfolkStateUniversity 6,370 37 19 18
+
+======================================================================
+PDF页码: 999
+命中城市: ['Houston', 'Austin']
+Totallaw
+enforcement Total Total
+State State/Tribal/Other Agency Unit/Office employees officers civilians
+TEXAS OtherAgency HoodCountyConstable Precinct4 3 2 1
+TEXAS OtherAgency HopkinsCountyConstable Precinct2 1 1 0
+TEXAS OtherAgency HospitalDistrict DallasCounty 169 109 60
+TEXAS OtherAgency HospitalDistrict EctorCounty 18 13 5
+TEXAS OtherAgency HospitalDistrict TarrantCounty 86 48 38
+TEXAS OtherAgency HoustonArsonBureau 76 72 4
+TEXAS OtherAgency HoustonCountyConstable Precinct1 1 1 0
+TEXAS OtherAgency HoustonCountyConstable Precinct2 1 1 0
+TEXAS OtherAgency HoustonMetropolitanTransitAuthority 287 205 82
+TEXAS OtherAgency HuntCountyConstable Precinct1 5 4 1
+TEXAS OtherAgency HuntCountyConstable Precinct2 2 1 1
+TEXAS OtherAgency HuntCountyConstable Precinct3 1 1 0
+TEXAS OtherAgency HuntCountyConstable Precinct4 3 2 1
+TEXAS OtherAgency IndependentSchoolDistrict Aldine 84 71 13
+TEXAS OtherAgency IndependentSchoolDistrict Alief 63 57 6
+TEXAS OtherAgency IndependentSchoolDistrict Alvin 59 50 9
+TEXAS OtherAgency IndependentSchoolDistrict Amarillo 16 15 1
+TEXAS OtherAgency IndependentSchoolDistrict Angleton 18 14 4
+TEXAS OtherAgency IndependentSchoolDistrict Anna 6 6 0
+TEXAS OtherAgency IndependentSchoolDistrict Aubrey 6 6 0
+TEXAS OtherAgency IndependentSchoolDistrict Austin 102 87 15
+TEXAS OtherAgency IndependentSchoolDistrict Avery 1 1 0
+TEXAS OtherAgency IndependentSchoolDistrict BarbersHill 11 10 1
+TEXAS OtherAgency IndependentSchoolDistrict Bastrop 22 19 3
+TEXAS OtherAgency IndependentSchoolDistrict BayCity 7 6 1
+TEXAS OtherAgency IndependentSchoolDistrict Beeville 11 8 3
+TEXAS OtherAgency IndependentSchoolDistrict BloomingGrove 2 2 0
+TEXAS OtherAgency IndependentSchoolDistrict Bonham 3 3 0
+TEXAS OtherAgency IndependentSchoolDistrict Brazosport 17 16 1
+TEXAS OtherAgency IndependentSchoolDistrict BridgeCity 4 4 0
+TEXAS OtherAgency IndependentSchoolDistrict Brownsboro 2 2 0
+TEXAS OtherAgency IndependentSchoolDistrict Brownsville 146 76 70
+TEXAS OtherAgency IndependentSchoolDistrict Bullard 6 6 0
+TEXAS OtherAgency IndependentSchoolDistrict Burkburnett 7 7 0
+TEXAS OtherAgency IndependentSchoolDistrict CalhounCounty 6 6 0
+TEXAS OtherAgency IndependentSchoolDistrict CarrizoSpringsConsolidated 8 8 0
+TEXAS OtherAgency IndependentSchoolDistrict Castleberry 7 7 0
+TEXAS OtherAgency IndependentSchoolDistrict Center 4 4 0
+TEXAS OtherAgency IndependentSchoolDistrict Centerpoint 2 2 0
+TEXAS OtherAgency IndependentSchoolDistrict Central 7 5 2
+TEXAS OtherAgency IndependentSchoolDistrict ChapelHill 9 5 4
+TEXAS OtherAgency IndependentSchoolDistrict ChapelHillNortheast 3 2 1
+TEXAS OtherAgency IndependentSchoolDistrict Chisum 3 3 0
