@@ -1,0 +1,7 @@
+﻿"OriginalName","EnglishName","SourcePath","SHA256","Verified"
+"美国九大地区_V3_195城覆盖分配.csv","CitySelection_V3_Result_01.csv","C:\Users\tsing\Desktop\新建文件夹 (2)\CITY_SELECTION\04_MODEL_RESULTS\美国九大地区_V3_195城覆盖分配.csv","C29DAA4D8D35689D1A96BC211EFFD4FBB99504AB8210BDE117245753BCB57DC5","True"
+"美国九大地区_V3_全部区域候选组合.csv","CitySelection_V3_Result_02.csv","C:\Users\tsing\Desktop\新建文件夹 (2)\CITY_SELECTION\04_MODEL_RESULTS\美国九大地区_V3_全部区域候选组合.csv","929AC8E94A9461BA532BE93F78E32994D069886D25A2D885249D973D3402A8DF","True"
+"美国九大地区_V3_双模型交叉评价.csv","CitySelection_V3_Result_03.csv","C:\Users\tsing\Desktop\新建文件夹 (2)\CITY_SELECTION\05_SENSITIVITY_ANALYSIS\美国九大地区_V3_双模型交叉评价.csv","3CB130574A393AB5637B9E9EF46EFD57930464AB6D9314202159DCD08EC6D662","True"
+"美国九大地区_V3_蒙特卡洛入选频率.csv","CitySelection_V3_Result_04.csv","C:\Users\tsing\Desktop\新建文件夹 (2)\CITY_SELECTION\05_SENSITIVITY_ANALYSIS\美国九大地区_V3_蒙特卡洛入选频率.csv","935E063020C8BAE50F286C6D6B163357E94F4F855C9BB7373CF1069F2C0E1DDC","True"
+"美国九大地区_V3_蒙特卡洛逐次结果.csv","CitySelection_V3_Result_05.csv","C:\Users\tsing\Desktop\新建文件夹 (2)\CITY_SELECTION\05_SENSITIVITY_ANALYSIS\美国九大地区_V3_蒙特卡洛逐次结果.csv","53C4ED6FB052E80590588141C4A20F93C483233F156BC3BA885DD5B9CB331301","True"
+"美国九大地区_V3_计算日志.txt","CitySelection_V3_Result_06.txt","C:\Users\tsing\Desktop\新建文件夹 (2)\CITY_SELECTION\05_SENSITIVITY_ANALYSIS\美国九大地区_V3_计算日志.txt","665BB42C1F1E8A67A345D4DE4DEE8FC74523D3B8DCED2BE63C8513424CD07D0B","True"

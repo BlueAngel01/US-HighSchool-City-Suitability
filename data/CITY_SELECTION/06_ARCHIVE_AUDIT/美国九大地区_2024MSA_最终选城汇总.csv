@@ -1,0 +1,10 @@
+﻿地区编号,地区,MSA数量,配对数,H_RMS,K,第一城Medoid,第一城平均距离D1,第二城方案,最佳双城距离D2,改善率,20%门槛
+1,新英格兰 New England,11,55,0.0960267003,15.4461175191,"Worcester, MA",1.1013527153,"Worcester, MA → Hartford-West Hartford-East Hartford, CT",0.871568,20.86%,通过
+2,中大西洋 Middle Atlantic,18,153,0.1077285547,13.5081525428,"Scranton--Wilkes-Barre, PA",1.0449852020,"Scranton--Wilkes-Barre, PA → 不增加第二城（改善率不足20%）",0.837003,19.90%,未通过
+3,东北中部 East North Central,24,276,0.0908389764,15.9031981003,"Dayton-Kettering-Beavercreek, OH",1.0622683978,"Dayton-Kettering-Beavercreek, OH → 不增加第二城（改善率不足20%）",0.878844,17.27%,未通过
+4,西北中部 West North Central,13,78,0.0976068529,15.0804999912,"Omaha, NE-IA",1.0942166482,"Omaha, NE-IA → Wichita, KS",0.827611,24.37%,通过
+5,南大西洋 South Atlantic,42,861,0.1295941494,11.0449135077,"Columbia, SC",1.0223579630,"Columbia, SC → 不增加第二城（改善率不足20%）",0.854667,16.40%,未通过
+6,东南中部 East South Central,16,120,0.1004937441,14.5341732437,"Chattanooga, TN-GA",1.0593103304,"Chattanooga, TN-GA → Kingsport-Bristol, TN-VA",0.805562,23.95%,通过
+7,西南中部 West South Central,25,300,0.1115500476,12.9392654158,"Tulsa, OK",0.9940044373,"Tulsa, OK → 不增加第二城（改善率不足20%）",0.836438,15.85%,未通过
+8,山地 Mountain,15,105,0.1116343753,13.1128973936,"Fort Collins-Loveland, CO",1.0631964194,"Fort Collins-Loveland, CO → 不增加第二城（改善率不足20%）",0.863482,18.78%,未通过
+9,太平洋 Pacific,31,465,0.1568642749,9.1645505522,"Salem, OR",1.0101022784,"Salem, OR → San Diego-Chula Vista-Carlsbad, CA",0.804076,20.40%,通过

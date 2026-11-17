@@ -1,0 +1,44 @@
+﻿美国九大地区 V2 分层约束加权P-Median
+运行时间：2026-11-16T12:07:07
+输入数据库：C:\Users\tsing\Downloads\美国九大地区_2024MSA综合数据库.sqlite
+数据库完整性检查通过：195个MSA、2535条产业记录、13类行业。
+开始分别计算九个地区的H、RMS、K、E、Z和d……
+OK 新英格兰 New England: 11城；大型=3；中小型=8；特大型=1；配对=55；H_RMS=0.0960267003；K=15.4461175191；本区候选组合=66
+OK 中大西洋 Middle Atlantic: 18城；大型=5；中小型=13；特大型=2；配对=153；H_RMS=0.1077285547；K=13.5081525428；本区候选组合=171
+OK 东北中部 East North Central: 24城；大型=8；中小型=16；特大型=1；配对=276；H_RMS=0.0908389764；K=15.9031981003；本区候选组合=300
+OK 西北中部 West North Central: 13城；大型=4；中小型=9；特大型=0；配对=78；H_RMS=0.0976068529；K=15.0804999912；本区候选组合=91
+OK 南大西洋 South Atlantic: 42城；大型=11；中小型=31；特大型=3；配对=861；H_RMS=0.1295941494；K=11.0449135077；本区候选组合=903
+OK 东南中部 East South Central: 16城；大型=4；中小型=12；特大型=0；配对=120；H_RMS=0.1004937441；K=14.5341732437；本区候选组合=136
+OK 西南中部 West South Central: 25城；大型=6；中小型=19；特大型=2；配对=300；H_RMS=0.1115500476；K=12.9392654158；本区候选组合=325
+OK 山地 Mountain: 15城；大型=5；中小型=10；特大型=1；配对=105；H_RMS=0.1116343753；K=13.1128973936；本区候选组合=120
+OK 太平洋 Pacific: 31城；大型=9；中小型=22；特大型=1；配对=465；H_RMS=0.1568642749；K=9.1645505522；本区候选组合=496
+开始动态规划联合优化：每区选1或2座，全国合计10座……
+动态规划完成：最终可行规模状态数=4
+最优目标值 L*=1.033321170247
+最优解并列路径数（按DP状态累计）=1
+采用确定性CBSA字典序规则输出其中一组最优解
+
+最终10座城市：
+地区1 新英格兰 New England | Hartford-West Hartford-East Hartford, CT | 人口=1,169,048 | 大型 | 特大型=否
+地区2 中大西洋 Middle Atlantic | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD | 人口=6,330,422 | 大型 | 特大型=是
+地区3 东北中部 East North Central | Dayton-Kettering-Beavercreek, OH | 人口=821,740 | 中小型 | 特大型=否
+地区4 西北中部 West North Central | Kansas City, MO-KS | 人口=2,253,579 | 大型 | 特大型=否
+地区5 南大西洋 South Atlantic | Charleston-North Charleston, SC | 人口=869,940 | 中小型 | 特大型=否
+地区6 东南中部 East South Central | Knoxville, TN | 人口=957,608 | 中小型 | 特大型=否
+地区7 西南中部 West South Central | Dallas-Fort Worth-Arlington, TX | 人口=8,344,032 | 大型 | 特大型=是
+地区7 西南中部 West South Central | Little Rock-North Little Rock-Conway, AR | 人口=769,258 | 中小型 | 特大型=否
+地区8 山地 Mountain | Colorado Springs, CO | 人口=777,634 | 中小型 | 特大型=否
+地区9 太平洋 Pacific | Portland-Vancouver-Hillsboro, OR-WA | 人口=2,537,904 | 大型 | 特大型=否
+
+最优目标函数 L* = 1.033321170247
+195城贡献复算 = 1.033321170247
+并列最优路径数 = 1
+
+输出文件：
+C:\Users\tsing\Downloads\美国九大地区_V2_最终结果与中间数据.xlsx
+C:\Users\tsing\Downloads\美国九大地区_V2_最终选城名单.csv
+C:\Users\tsing\Downloads\美国九大地区_V2_195城覆盖分配.csv
+C:\Users\tsing\Downloads\美国九大地区_V2_全部区域候选组合.csv
+C:\Users\tsing\Downloads\美国九大地区_V2_中间数据.sqlite
+C:\Users\tsing\Downloads\美国九大地区_V2_计算日志.txt
+质量检查全部通过。原始SQLite数据库未被修改。

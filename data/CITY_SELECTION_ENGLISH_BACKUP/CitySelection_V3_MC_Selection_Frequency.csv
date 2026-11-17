@@ -1,0 +1,196 @@
+﻿地区编号,地区,MSA,CBSA,人口模型入选次数,人口模型入选频率,GDP模型入选次数,GDP模型入选频率
+1,新英格兰 New England,"Boston-Cambridge-Newton, MA-NH",14460,999,0.999,1000,1.0
+1,新英格兰 New England,"Providence-Warwick, RI-MA",39300,0,0.0,0,0.0
+1,新英格兰 New England,"Hartford-West Hartford-East Hartford, CT",25540,1,0.001,0,0.0
+1,新英格兰 New England,"Bridgeport-Stamford-Danbury, CT",14860,0,0.0,0,0.0
+1,新英格兰 New England,"Worcester, MA",49340,0,0.0,0,0.0
+1,新英格兰 New England,"New Haven, CT",35300,0,0.0,0,0.0
+1,新英格兰 New England,"Portland-South Portland, ME",38860,0,0.0,0,0.0
+1,新英格兰 New England,"Springfield, MA",44140,0,0.0,0,0.0
+1,新英格兰 New England,"Waterbury-Shelton, CT",47930,0,0.0,0,0.0
+1,新英格兰 New England,"Manchester-Nashua, NH",31700,0,0.0,0,0.0
+1,新英格兰 New England,"Norwich-New London-Willimantic, CT",35980,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"New York-Newark-Jersey City, NY-NJ",35620,1000,1.0,1000,1.0
+2,中大西洋 Middle Atlantic,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,696,0.696,623,0.623
+2,中大西洋 Middle Atlantic,"Pittsburgh, PA",38300,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Buffalo-Cheektowaga, NY",15380,193,0.193,0,0.0
+2,中大西洋 Middle Atlantic,"Rochester, NY",40380,84,0.084,0,0.0
+2,中大西洋 Middle Atlantic,"Albany-Schenectady-Troy, NY",10580,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Allentown-Bethlehem-Easton, PA-NJ",10900,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Kiryas Joel-Poughkeepsie-Newburgh, NY",28880,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Syracuse, NY",45060,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Harrisburg-Carlisle, PA",25420,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Scranton--Wilkes-Barre, PA",42540,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Lancaster, PA",29540,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"York-Hanover, PA",49620,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Reading, PA",39740,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Trenton-Princeton, NJ",45940,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Atlantic City-Hammonton, NJ",12100,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Utica-Rome, NY",46540,0,0.0,0,0.0
+2,中大西洋 Middle Atlantic,"Erie, PA",21500,0,0.0,0,0.0
+3,东北中部 East North Central,"Chicago-Naperville-Elgin, IL-IN",16980,0,0.0,0,0.0
+3,东北中部 East North Central,"Detroit-Warren-Dearborn, MI",19820,7,0.007,10,0.01
+3,东北中部 East North Central,"Cincinnati, OH-KY-IN",17140,0,0.0,0,0.0
+3,东北中部 East North Central,"Columbus, OH",18140,0,0.0,0,0.0
+3,东北中部 East North Central,"Indianapolis-Carmel-Greenwood, IN",26900,0,0.0,0,0.0
+3,东北中部 East North Central,"Cleveland, OH",17410,981,0.981,984,0.984
+3,东北中部 East North Central,"Milwaukee-Waukesha, WI",33340,12,0.012,6,0.006
+3,东北中部 East North Central,"Grand Rapids-Wyoming-Kentwood, MI",24340,0,0.0,0,0.0
+3,东北中部 East North Central,"Dayton-Kettering-Beavercreek, OH",19430,0,0.0,0,0.0
+3,东北中部 East North Central,"Madison, WI",31540,0,0.0,0,0.0
+3,东北中部 East North Central,"Akron, OH",10420,0,0.0,0,0.0
+3,东北中部 East North Central,"Toledo, OH",45780,0,0.0,0,0.0
+3,东北中部 East North Central,"Lansing-East Lansing, MI",29620,0,0.0,0,0.0
+3,东北中部 East North Central,"Fort Wayne, IN",23060,0,0.0,0,0.0
+3,东北中部 East North Central,"Youngstown-Warren, OH",49660,0,0.0,0,0.0
+3,东北中部 East North Central,"Flint, MI",22420,0,0.0,0,0.0
+3,东北中部 East North Central,"Canton-Massillon, OH",15940,0,0.0,0,0.0
+3,东北中部 East North Central,"Ann Arbor, MI",11460,0,0.0,0,0.0
+3,东北中部 East North Central,"Peoria, IL",37900,0,0.0,0,0.0
+3,东北中部 East North Central,"Rockford, IL",40420,0,0.0,0,0.0
+3,东北中部 East North Central,"Green Bay, WI",24580,0,0.0,0,0.0
+3,东北中部 East North Central,"South Bend-Mishawaka, IN-MI",43780,0,0.0,0,0.0
+3,东北中部 East North Central,"Evansville, IN",21780,0,0.0,0,0.0
+3,东北中部 East North Central,"Kalamazoo-Portage, MI",28020,0,0.0,0,0.0
+4,西北中部 West North Central,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,0,0.0,16,0.016
+4,西北中部 West North Central,"St. Louis, MO-IL",41180,0,0.0,2,0.002
+4,西北中部 West North Central,"Kansas City, MO-KS",28140,1000,1.0,982,0.982
+4,西北中部 West North Central,"Omaha, NE-IA",36540,0,0.0,0,0.0
+4,西北中部 West North Central,"Des Moines-West Des Moines, IA",19780,0,0.0,0,0.0
+4,西北中部 West North Central,"Wichita, KS",48620,0,0.0,0,0.0
+4,西北中部 West North Central,"Springfield, MO",44180,0,0.0,0,0.0
+4,西北中部 West North Central,"Davenport-Moline-Rock Island, IA-IL",19340,0,0.0,0,0.0
+4,西北中部 West North Central,"Lincoln, NE",30700,0,0.0,0,0.0
+4,西北中部 West North Central,"Sioux Falls, SD-MN",43620,0,0.0,0,0.0
+4,西北中部 West North Central,"Duluth, MN-WI",20260,0,0.0,0,0.0
+4,西北中部 West North Central,"Cedar Rapids, IA",16300,0,0.0,0,0.0
+4,西北中部 West North Central,"Fargo, ND-MN",22020,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,4,0.004,0,0.0
+5,南大西洋 South Atlantic,"Atlanta-Sandy Springs-Roswell, GA",12060,342,0.342,1000,1.0
+5,南大西洋 South Atlantic,"Tampa-St. Petersburg-Clearwater, FL",45300,1,0.001,0,0.0
+5,南大西洋 South Atlantic,"Orlando-Kissimmee-Sanford, FL",36740,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Charlotte-Concord-Gastonia, NC-SC",16740,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Baltimore-Columbia-Towson, MD",12580,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Virginia Beach-Chesapeake-Norfolk, VA-NC",47260,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Jacksonville, FL",27260,653,0.653,0,0.0
+5,南大西洋 South Atlantic,"Raleigh-Cary, NC",39580,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Richmond, VA",40060,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Greenville-Anderson-Greer, SC",24860,1,0.001,0,0.0
+5,南大西洋 South Atlantic,"North Port-Bradenton-Sarasota, FL",35840,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Columbia, SC",17900,4,0.004,0,0.0
+5,南大西洋 South Atlantic,"Charleston-North Charleston, SC",16700,4,0.004,0,0.0
+5,南大西洋 South Atlantic,"Cape Coral-Fort Myers, FL",15980,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Lakeland-Winter Haven, FL",29460,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Greensboro-High Point, NC",24660,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Deltona-Daytona Beach-Ormond Beach, FL",19660,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Winston-Salem, NC",49180,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Palm Bay-Melbourne-Titusville, FL",37340,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Augusta-Richmond County, GA-SC",12260,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Durham-Chapel Hill, NC",20500,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Port St. Lucie, FL",38940,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Pensacola-Ferry Pass-Brent, FL",37860,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Wilmington, NC",48900,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Savannah, GA",42340,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Ocala, FL",36100,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Asheville, NC",11700,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Naples-Marco Island, FL",34940,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Myrtle Beach-Conway-North Myrtle Beach, SC",34820,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Tallahassee, FL",45220,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Spartanburg, SC",43900,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Fayetteville, NC",22180,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Hickory-Lenoir-Morganton, NC",25860,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Huntington-Ashland, WV-KY-OH",26580,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Gainesville, FL",23540,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Columbus, GA-AL",17980,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Roanoke, VA",40220,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Hagerstown-Martinsburg, MD-WV",25180,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Crestview-Fort Walton Beach-Destin, FL",18880,0,0.0,0,0.0
+5,南大西洋 South Atlantic,"Lynchburg, VA",31340,0,0.0,0,0.0
+6,东南中部 East South Central,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,0,0.0,0,0.0
+6,东南中部 East South Central,"Louisville/Jefferson County, KY-IN",31140,0,0.0,0,0.0
+6,东南中部 East South Central,"Memphis, TN-MS-AR",32820,0,0.0,0,0.0
+6,东南中部 East South Central,"Birmingham, AL",13820,1000,1.0,1000,1.0
+6,东南中部 East South Central,"Knoxville, TN",28940,0,0.0,0,0.0
+6,东南中部 East South Central,"Jackson, MS",27140,0,0.0,0,0.0
+6,东南中部 East South Central,"Chattanooga, TN-GA",16860,0,0.0,0,0.0
+6,东南中部 East South Central,"Huntsville, AL",26620,0,0.0,0,0.0
+6,东南中部 East South Central,"Lexington-Fayette, KY",30460,0,0.0,0,0.0
+6,东南中部 East South Central,"Gulfport-Biloxi, MS",25060,0,0.0,0,0.0
+6,东南中部 East South Central,"Mobile, AL",33660,0,0.0,0,0.0
+6,东南中部 East South Central,"Montgomery, AL",33860,0,0.0,0,0.0
+6,东南中部 East South Central,"Clarksville, TN-KY",17300,0,0.0,0,0.0
+6,东南中部 East South Central,"Kingsport-Bristol, TN-VA",28700,0,0.0,0,0.0
+6,东南中部 East South Central,"Tuscaloosa, AL",46220,0,0.0,0,0.0
+6,东南中部 East South Central,"Daphne-Fairhope-Foley, AL",19300,0,0.0,0,0.0
+7,西南中部 West South Central,"Dallas-Fort Worth-Arlington, TX",19100,0,0.0,0,0.0
+7,西南中部 West South Central,"Houston-Pasadena-The Woodlands, TX",26420,1000,1.0,1000,1.0
+7,西南中部 West South Central,"San Antonio-New Braunfels, TX",41700,0,0.0,0,0.0
+7,西南中部 West South Central,"Austin-Round Rock-San Marcos, TX",12420,0,0.0,0,0.0
+7,西南中部 West South Central,"Oklahoma City, OK",36420,0,0.0,0,0.0
+7,西南中部 West South Central,"Tulsa, OK",46140,0,0.0,0,0.0
+7,西南中部 West South Central,"New Orleans-Metairie, LA",35380,0,0.0,0,0.0
+7,西南中部 West South Central,"McAllen-Edinburg-Mission, TX",32580,0,0.0,0,0.0
+7,西南中部 West South Central,"Baton Rouge, LA",12940,0,0.0,0,0.0
+7,西南中部 West South Central,"El Paso, TX",21340,0,0.0,0,0.0
+7,西南中部 West South Central,"Little Rock-North Little Rock-Conway, AR",30780,0,0.0,0,0.0
+7,西南中部 West South Central,"Fayetteville-Springdale-Rogers, AR",22220,0,0.0,0,0.0
+7,西南中部 West South Central,"Killeen-Temple, TX",28660,0,0.0,0,0.0
+7,西南中部 West South Central,"Corpus Christi, TX",18580,0,0.0,0,0.0
+7,西南中部 West South Central,"Brownsville-Harlingen, TX",15180,0,0.0,0,0.0
+7,西南中部 West South Central,"Lafayette, LA",29180,0,0.0,0,0.0
+7,西南中部 West South Central,"Beaumont-Port Arthur, TX",13140,0,0.0,0,0.0
+7,西南中部 West South Central,"Shreveport-Bossier City, LA",43340,0,0.0,0,0.0
+7,西南中部 West South Central,"Lubbock, TX",31180,0,0.0,0,0.0
+7,西南中部 West South Central,"Waco, TX",47380,0,0.0,0,0.0
+7,西南中部 West South Central,"Longview, TX",30980,0,0.0,0,0.0
+7,西南中部 West South Central,"College Station-Bryan, TX",17780,0,0.0,0,0.0
+7,西南中部 West South Central,"Slidell-Mandeville-Covington, LA",43640,0,0.0,0,0.0
+7,西南中部 West South Central,"Amarillo, TX",11100,0,0.0,0,0.0
+7,西南中部 West South Central,"Laredo, TX",29700,0,0.0,0,0.0
+8,山地 Mountain,"Phoenix-Mesa-Chandler, AZ",38060,1000,1.0,979,0.979
+8,山地 Mountain,"Denver-Aurora-Centennial, CO",19740,0,0.0,21,0.021
+8,山地 Mountain,"Las Vegas-Henderson-North Las Vegas, NV",29820,0,0.0,0,0.0
+8,山地 Mountain,"Salt Lake City-Murray, UT",41620,0,0.0,0,0.0
+8,山地 Mountain,"Tucson, AZ",46060,0,0.0,0,0.0
+8,山地 Mountain,"Albuquerque, NM",10740,0,0.0,0,0.0
+8,山地 Mountain,"Boise City, ID",14260,0,0.0,0,0.0
+8,山地 Mountain,"Colorado Springs, CO",17820,0,0.0,0,0.0
+8,山地 Mountain,"Provo-Orem-Lehi, UT",39340,0,0.0,0,0.0
+8,山地 Mountain,"Ogden, UT",36260,0,0.0,0,0.0
+8,山地 Mountain,"Reno, NV",39900,0,0.0,0,0.0
+8,山地 Mountain,"Fort Collins-Loveland, CO",22660,0,0.0,0,0.0
+8,山地 Mountain,"Greeley, CO",24540,0,0.0,0,0.0
+8,山地 Mountain,"Boulder, CO",14500,0,0.0,0,0.0
+8,山地 Mountain,"Prescott Valley-Prescott, AZ",39150,0,0.0,0,0.0
+9,太平洋 Pacific,"Los Angeles-Long Beach-Anaheim, CA",31080,18,0.018,376,0.376
+9,太平洋 Pacific,"Riverside-San Bernardino-Ontario, CA",40140,0,0.0,0,0.0
+9,太平洋 Pacific,"San Francisco-Oakland-Fremont, CA",41860,0,0.0,1,0.001
+9,太平洋 Pacific,"Seattle-Tacoma-Bellevue, WA",42660,0,0.0,0,0.0
+9,太平洋 Pacific,"San Diego-Chula Vista-Carlsbad, CA",41740,982,0.982,624,0.624
+9,太平洋 Pacific,"Portland-Vancouver-Hillsboro, OR-WA",38900,18,0.018,376,0.376
+9,太平洋 Pacific,"Sacramento-Roseville-Folsom, CA",40900,0,0.0,0,0.0
+9,太平洋 Pacific,"San Jose-Sunnyvale-Santa Clara, CA",41940,0,0.0,0,0.0
+9,太平洋 Pacific,"Fresno, CA",23420,0,0.0,0,0.0
+9,太平洋 Pacific,"Urban Honolulu, HI",46520,0,0.0,0,0.0
+9,太平洋 Pacific,"Bakersfield-Delano, CA",12540,0,0.0,0,0.0
+9,太平洋 Pacific,"Oxnard-Thousand Oaks-Ventura, CA",37100,0,0.0,0,0.0
+9,太平洋 Pacific,"Stockton-Lodi, CA",44700,0,0.0,0,0.0
+9,太平洋 Pacific,"Spokane-Spokane Valley, WA",44060,0,0.0,0,0.0
+9,太平洋 Pacific,"Modesto, CA",33700,0,0.0,0,0.0
+9,太平洋 Pacific,"Santa Rosa-Petaluma, CA",42220,0,0.0,0,0.0
+9,太平洋 Pacific,"Visalia, CA",47300,0,0.0,0,0.0
+9,太平洋 Pacific,"Vallejo, CA",46700,0,0.0,0,0.0
+9,太平洋 Pacific,"Santa Maria-Santa Barbara, CA",42200,0,0.0,0,0.0
+9,太平洋 Pacific,"Salem, OR",41420,0,0.0,0,0.0
+9,太平洋 Pacific,"Salinas, CA",41500,0,0.0,0,0.0
+9,太平洋 Pacific,"Anchorage, AK",11260,0,0.0,0,0.0
+9,太平洋 Pacific,"Eugene-Springfield, OR",21660,0,0.0,0,0.0
+9,太平洋 Pacific,"Kennewick-Richland, WA",28420,0,0.0,0,0.0
+9,太平洋 Pacific,"Olympia-Lacey-Tumwater, WA",36500,0,0.0,0,0.0
+9,太平洋 Pacific,"Merced, CA",32900,0,0.0,0,0.0
+9,太平洋 Pacific,"San Luis Obispo-Paso Robles, CA",42020,0,0.0,0,0.0
+9,太平洋 Pacific,"Bremerton-Silverdale-Port Orchard, WA",14740,0,0.0,0,0.0
+9,太平洋 Pacific,"Bend, OR",13460,0,0.0,0,0.0
+9,太平洋 Pacific,"Santa Cruz-Watsonville, CA",42100,0,0.0,0,0.0
+9,太平洋 Pacific,"Yakima, WA",49420,0,0.0,0,0.0

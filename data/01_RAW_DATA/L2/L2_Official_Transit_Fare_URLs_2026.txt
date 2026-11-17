@@ -1,0 +1,38 @@
+L2 PUBLIC TRANSIT FARES — OFFICIAL SOURCE URL LIST
+For HiMCM data archive | Compiled 2026-11-17
+
+01. Boston — MBTA
+https://www.mbta.com/fares
+
+02. New York — MTA
+https://new.mta.info/fares
+
+03. Philadelphia — SEPTA
+https://www.septa.org/fares/
+
+04. Cleveland — Greater Cleveland RTA
+https://www.riderta.com/fares
+
+05. Kansas City — RideKC
+https://ridekc.org/fares-passes/
+
+06. Jacksonville — JTA
+https://www.jtafla.com/
+
+07. Birmingham — MAX Transit
+https://maxtransit.org/
+
+08. Houston — METRO
+https://www.ridemetro.org/fares
+
+09. Phoenix — Valley Metro
+https://www.valleymetro.org/fares
+
+10. San Diego — MTS
+https://www.sdmts.com/fares/fare-chart
+
+NOTES
+- These are official operator website links collected for the L2 source archive; links and 2026 fares have not all been independently reverified.
+- Jacksonville and Birmingham links are operator homepages; navigate to current fare information.
+- Preserve each page as PDF and record access date, fare effective date, and fare product definition.
+- Recommended GitHub location: 01_RAW_DATA/L2/
